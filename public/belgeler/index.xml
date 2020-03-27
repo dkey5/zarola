@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nasıl yaparım? on Zarola</title>
+    <link>https://zarola.oyd.org.tr/belgeler/</link>
+    <description>Recent content in Nasıl yaparım? on Zarola</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>tr-tr</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    
+	<atom:link href="https://zarola.oyd.org.tr/belgeler/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Zarola nedir?</title>
+      <link>https://zarola.oyd.org.tr/belgeler/zarola-nedir/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://zarola.oyd.org.tr/belgeler/zarola-nedir/</guid>
+      <description>Parola nedir? Parola, en basit şekilde bir sisteme veya alana girmeye çalışan kişinin gerçekten o kişi olduğunu doğrulamayı sağlayan, bir grup kelime veya karakterden oluşan öbek olarak tanımlanabilir.
+Parolalar nerelerde kullanılır?</description>
+    </item>
+    
+    <item>
+      <title>Nasıl zarola oluşturabilirim?</title>
+      <link>https://zarola.oyd.org.tr/belgeler/nasil-zarola-olusturabilirim/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://zarola.oyd.org.tr/belgeler/nasil-zarola-olusturabilirim/</guid>
+      <description>Zarola nasıl oluşturulur? Zarola kullanmak için öncelikle en az bir zara veya bozuk paraya ihtiyacınız vardır. Tavla veya kutu oyunu zarı gibi bir zar kullanabileceğiniz gibi, daha yüksek rastgeleliğe sahip kumarhane zarları da kullanabilirsiniz.</description>
+    </item>
+    
+    <item>
+      <title>Sıkça sorulan sorular</title>
+      <link>https://zarola.oyd.org.tr/belgeler/sss/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://zarola.oyd.org.tr/belgeler/sss/</guid>
+      <description>0. Zarola nedir? Zarola (İng. diceware), zarlar kullanarak, kolayca hatırlanabilir güvenli parolalar oluşturmanızı sağlayan bir tekniktir. Zarola yöntemi ile oluşturulan parolalar, mekik posta ekran semer toprak kalem ustura gibi görünür.</description>
+    </item>
+    
+  </channel>
+</rss>

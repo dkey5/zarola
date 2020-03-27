@@ -1,0 +1,48 @@
+baseURL = "https://zarola.oyd.org.tr"
+languageCode = "tr-tr"
+title = "Zarola"
+theme = "hugo-whisper-theme"
+
+pygmentsCodeFences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsUseClasses = true
+
+# Controls how many words are printed in the content summary on the docs homepage.
+# See https://gohugo.io/content-management/summaries/
+summaryLength = 30
+
+[[menu.main]]
+    name = "Nasıl yaparım?"
+    url = "/belgeler/"
+    weight = 1
+
+[[menu.main]]
+    name = "SSS"
+    url = "/belgeler/sss/"
+    weight = 2
+
+
+[params]
+  google_analytics_id=""
+  homepage_button_link = '/belgeler'
+  homepage_button_text = 'NASIL YAPILACAĞINI ÖĞRENİN'
+  homepage_intro = 'Zarola, kolayca hatırlanabilir ve yüksek derecede güvenli parolalar oluşturabilmenizi sağlayan bir yöntemdir.'
+  homepage_image = '/zarola.gif'
+
+  ## You can enable to add anchor links to header elements
+  # enable_anchor_link = true
+
+  [params.homepage_meta_tags]
+    meta_description = "Zarola, kullanıcıların kolayca hatırlanabilir ve yüksek derecede güvenli parolalar oluşturabilmelerini sağlayan bir yöntemdir."
+    meta_og_title = "Zarola"
+    meta_og_type = "website"
+    meta_og_url = "https://zarola.oyd.org.tr"
+    meta_og_image = "/zarola40.png"
+    meta_og_description = "Zarola, kullanıcıların kolayca hatırlanabilir ve yüksek derecede güvenli parolalar oluşturabilmelerini sağlayan bir yöntemdir."
+    meta_twitter_card = "summary"
+    meta_twitter_site = "@oydorgtr"
+    meta_twitter_creator = "@oydorgtr"
+
+  [params.logo]
+      mobile = "/zarola40.png"
+      standard  = "/zarola40.png"
